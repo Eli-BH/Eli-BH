@@ -37,6 +37,8 @@
 <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Eli's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eli-BH&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-BH&theme=<THEME_NAME>" />
+
 
 
 
