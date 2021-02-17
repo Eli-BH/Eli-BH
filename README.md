@@ -4,7 +4,7 @@
 
 - 🔭 I just Graduated with a B.S. in Computer Science and Information Security
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Grow my full stack development skills
+- 🥅 2021 Goals: Expand my developement Skills with new Projects in new Technologies
 - ⚡ Fun fact: I am a Street Photographer and Guitar player
 
 
