@@ -5,7 +5,7 @@
 - 🔭 I Graduated with a B.S. in Computer Science and Information Security
 - 🌱 I’m currently learning to use React Native
 - 🥅 2021 Goals: Expand my developement Skills with new Projects and new Technologies
-- ⚡ Fun fact: I am a Street Photographer and Guitar player
+- ⚡ Fun fact: I am a Street Photographer 
 
 
 ### Connect with me:
